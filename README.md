@@ -24,5 +24,5 @@ chỉnh sửa phần database muốn chọn
 ### 3. Download
 ```
 # Clone this repository
-$ git clone https://github.com/hoc2000/java_game_platformer.git
+$ git clone: https://github.com/hoc2000/web_maxhealth.git
 ```
