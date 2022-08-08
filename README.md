@@ -14,12 +14,24 @@ chỉnh sửa phần database muốn chọn
 
 
 **HOÀN THÀNH KÊT NỐI XONG thực hiện khởi tạo các bảng sử dụng lệnh terminal**
-
+```
 -npx sequelize-cli db:migrate
+``` 
+** ở đây em kết nối db bằng xampp**
+
+
+** Khởi động chương trình của front and back: **
+```
+-npm start 
+```
 
 
 ### 2. Ngôn ngữ
 - Programming language: JavaScript
+-	Frontend: ReactJS
+-	Backend: NodeJS-sử dụng kỹ thuật ORM sequelize
+- Database: MySQL
+
 
 ### 3. Download
 ```
